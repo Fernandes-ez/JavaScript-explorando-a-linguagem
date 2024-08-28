@@ -1,1 +1,1 @@
-# JavaScript-explorando-a-linguagem
+Este repositório é o meu aprendizado no curso  "JavaScript: explorando a linguagem" da Alura.
